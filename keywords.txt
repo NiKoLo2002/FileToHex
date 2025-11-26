@@ -1,0 +1,5 @@
+#######################################
+# FileToHex
+#######################################
+FileToHex.class	KEYWORD1
+convert	KEYWORD2

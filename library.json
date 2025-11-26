@@ -1,0 +1,13 @@
+{
+"name": "FileToHex",
+"version": "1.0.0",
+"author": "Nikolo02",
+"maintainer": "Nikolo02",
+"sentence": "File To Hexadecimal",
+"paragraph": "Libreria per la conversione di file in formato esadecimale.",
+"category": "Conversion",
+"url": "https://example.com/FTOS",
+"architectures": ["avr"],
+"keywords": ["FTOS", "Serial", "File", "SD", "Checksum", "CRC32", "Transfer"],
+"frameworks": ["arduino"]
+}
